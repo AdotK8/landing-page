@@ -1,0 +1,1 @@
+This project is intended to show basic flexbox attributes, as well as css styling to make a responsive landing page layout
