@@ -147,24 +147,28 @@ main {
     height: 200px;
     width: 200px;
     border-radius: 25px;
-    box-shadow: 10px 10px 20px ;
+    
 }
 
 #leo {
     border: 2px solid #3d85c6;
+    box-shadow: #3d85c6 10px 10px 20px ;
 
 }
 
 #raph {
     border: 2px solid #cc0000;
+    box-shadow: #cc0000 10px 10px 20px ;
 }
 
 #dona {
     border: 2px solid #6a329f;
+    box-shadow: #6a329f 10px 10px 20px ;
 }
 
 #mike {
     border: 2px solid #ce7e00;
+    box-shadow: #ce7e00 10px 10px 20px ;
 }
 
 .card-text { 
